@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="PARALAX_BG_1_TOP_OFFSET">150</integer>
+    <integer name="PARALAX_BG_2_TOP_OFFSET">150</integer>
+    
+    <integer name="SHAKE_AMPLITUDE">15</integer>
+    
+    <integer name="RUNNER_WIDTH">18</integer>
+    <integer name="RUNNER_HEIGHT">28</integer>
+    
+    <integer name="RUNNER_JUMPING_WIDTH">21</integer>
+    <integer name="RUNNER_RUNNING_CHANGE_FRAME_DISTANCE">11</integer>
+</resources>
